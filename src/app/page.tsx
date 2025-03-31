@@ -1,6 +1,7 @@
+import { ProgressionsTable } from "@/components/ProgressionsTable";
 
 export default function Home() {
   return (
-<div>Hello World!</div>
+<ProgressionsTable/>
   );
 }
